@@ -8,7 +8,11 @@ members:
   - David
   - George
   - kim
+<<<<<<< HEAD
   - ss
 
+=======
+  - skw
+>>>>>>> test
 coach:
   - Ruth
