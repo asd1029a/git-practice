@@ -9,4 +9,8 @@ members:
   - Oliva
 
 coach:
+<<<<<<< HEAD
   - Nicholas
+=======
+  - Oscar
+>>>>>>> conflict-1

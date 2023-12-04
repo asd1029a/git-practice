@@ -9,4 +9,8 @@ members:
   - freddie
 
 coach:
+<<<<<<< HEAD
   - Shirley
+=======
+  - Teddy
+>>>>>>> conflict-1
