@@ -8,13 +8,6 @@ members:
   - David
   - Oliva
 
-coach:
-<<<<<<< HEAD
-<<<<<<< HEAD
-  - Nicholas
-=======
+coach: HEAD
   - Oscar
->>>>>>> conflict-1
-=======
   - Melissa
->>>>>>> fa61207 (Edit Lepards)
